@@ -7,3 +7,7 @@ Instead, they are stored seperately. Finally, the files are authored to be read 
 -Data219-Analysis
 
 -Data219-ML
+
+Thanks for taking the time to read! 
+
+-Garrett Mckenzie and Marina Davies
